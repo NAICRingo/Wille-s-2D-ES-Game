@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.6",
+	"Category": "",
+	"Description": "Minimal Unreal Engine C++ project baseline.",
+	"Modules": [
+		{
+			"Name": "Willes2DESGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

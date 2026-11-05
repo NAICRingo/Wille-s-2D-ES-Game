@@ -1,0 +1,37 @@
+# Unreal Engine generated directories
+**/Binaries/
+DerivedDataCache/
+**/Intermediate/
+Saved/
+
+# Generated project and IDE state
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.opendb
+*.sdf
+*.code-workspace
+*.xcodeproj
+*.xcworkspace
+*.vsconfig
+
+# Logs, crash output, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+CrashReportClient/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
